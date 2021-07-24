@@ -1,0 +1,23 @@
+<?php
+
+
+
+$n1=0;
+$n2=1
+echo $n1.'<br>;
+echo $n2.'<br>';
+
+
+for ($1 = 0;$1<=50;$1++){
+$nubmer = $n1+$n2;
+@n2 = $number;
+cho $number.'<br>';
+
+
+}
+
+
+
+
+
+?>
